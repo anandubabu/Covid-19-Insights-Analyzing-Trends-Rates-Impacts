@@ -29,6 +29,8 @@ Active Cases Rate: Calculated through the division of active cases by total conf
 
 Exploration Through Visualization:
 
+![analysis](https://github.com/anandubabu/Covid-19-Insights-Analyzing-Trends-Rates-Impacts/assets/136991280/fc1b1e7c-972c-49ba-8375-0cdfe380a46b)
+
 Our project goes beyond numbers; we visualize the data to provide a holistic understanding:
 
 Dynamic line charts capture the temporal evolution of confirmed cases, deaths, recoveries, and active cases.
