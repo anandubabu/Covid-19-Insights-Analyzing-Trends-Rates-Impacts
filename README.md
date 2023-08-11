@@ -3,7 +3,11 @@ COVID-19 Data Analysis and Visualization Project
 
 In this GitHub repository, you'll find a comprehensive exploration of COVID-19 data through the lens of data analysis and visualization. Our project dives into the intricate patterns, trends, and impacts of the pandemic, offering insights that shed light on its progression.
 
+
+
 ![title](https://github.com/anandubabu/Covid-19-Insights-Analyzing-Trends-Rates-Impacts/assets/136991280/f345fde2-6a85-4b9b-b93b-20d754cd47be)
+
+
 
 
 Project Highlights:
