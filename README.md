@@ -18,6 +18,8 @@ Examining the daily changes in new cases, new deaths, and new recoveries using e
 Unveiling the disparities among countries and regions through a top affected countries/regions table.
 Calculating critical metrics like Case Fatality Rate, Recovery Rate, and Active Cases Rate to gauge the impact.
 
+link to watch the presentation: https://drive.google.com/file/d/1-4PmvCgHQOw3F56bZfgD1mL05OSbPkgf/view?usp=drivesdk
+
 Key Performance Indicators (KPIs) at a Glance:
 
 Total Confirmed Cases: Aggregating the total count of confirmed COVID-19 cases, offering a baseline understanding of the spread.
